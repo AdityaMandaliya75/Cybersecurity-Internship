@@ -36,5 +36,5 @@ The report is structured into the following sections:
 
 ---
 ## **📬 Submission Details**
-- **Intern:** [Deepanshu Semwal]
+- **Intern:** [Aditya Mandaliya]
 - **Organization:** Oasis Infobyte
